@@ -1,0 +1,22 @@
+# Official Nasdaq Data Link API Client for Python
+# https://pypi.org/project/Nasdaq-Data-Link/
+# pip install Nasdaq-Data-Link
+
+# Install dotenv for os moduel
+# pip install python-dotenv
+
+# Install mysql-connector for python
+# pip install mysql-connector-python
+
+# Install pandas 
+# pip install pandas
+
+# Install Matplotlib
+# pip install matplotlib
+
+# Install Google Maps
+# pip install googlemaps
+
+# Install Requirements.txt
+# pip install pipreqs
+# pipreqs /Users/samuelko/Desktop/testBed/AVS-Project

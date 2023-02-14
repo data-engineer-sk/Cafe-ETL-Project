@@ -1,0 +1,778 @@
+RecNo,OrderNO,Size,ProdNo,ProdName,UnitPrice
+1,ORD00001,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+2,ORD00001,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+3,ORD00001,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+4,ORD00001,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+5,ORD00001,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+6,ORD00001,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+7,ORD00002,Large,PRD00006,Flat white,2.45
+8,ORD00002,Regular,PRD00007,Latte,2.15
+9,ORD00003,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+10,ORD00003,Large,PRD00008,Latte,2.45
+11,ORD00004,Large,PRD00008,Latte,2.45
+12,ORD00004,Regular,PRD00007,Latte,2.15
+13,ORD00005,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+14,ORD00005,Regular,PRD00009,Flat white,2.15
+15,ORD00005,Regular,PRD00009,Flat white,2.15
+16,ORD00005,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+17,ORD00005,Regular,PRD00007,Latte,2.15
+18,ORD00006,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+19,ORD00006,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+20,ORD00006,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+21,ORD00006,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+22,ORD00006,Large,PRD00008,Latte,2.45
+23,ORD00006,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+24,ORD00007,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+25,ORD00007,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+26,ORD00007,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+27,ORD00007,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+28,ORD00007,Large,PRD00008,Latte,2.45
+29,ORD00008,Regular,PRD00007,Latte,2.15
+30,ORD00008,Large,PRD00008,Latte,2.45
+31,ORD00008,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+32,ORD00008,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+33,ORD00008,Large,PRD00008,Latte,2.45
+34,ORD00009,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+35,ORD00009,Large,PRD00006,Flat white,2.45
+36,ORD00010,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+37,ORD00010,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+38,ORD00010,Large,PRD00008,Latte,2.45
+39,ORD00010,Regular,PRD00009,Flat white,2.15
+40,ORD00010,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+41,ORD00011,Regular,PRD00007,Latte,2.15
+42,ORD00012,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+43,ORD00012,Large,PRD00006,Flat white,2.45
+44,ORD00012,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+45,ORD00012,Large,PRD00008,Latte,2.45
+46,ORD00013,Regular,PRD00009,Flat white,2.15
+47,ORD00013,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+48,ORD00013,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+49,ORD00013,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+50,ORD00013,Regular,PRD00009,Flat white,2.15
+51,ORD00014,Regular,PRD00009,Flat white,2.15
+52,ORD00014,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+53,ORD00014,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+54,ORD00015,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+55,ORD00015,Large,PRD00006,Flat white,2.45
+56,ORD00016,Regular,PRD00007,Latte,2.15
+57,ORD00017,Large,PRD00006,Flat white,2.45
+58,ORD00017,Regular,PRD00009,Flat white,2.15
+59,ORD00017,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+60,ORD00017,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+61,ORD00017,Regular,PRD00009,Flat white,2.15
+62,ORD00018,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+63,ORD00018,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+64,ORD00019,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+65,ORD00019,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+66,ORD00019,Large,PRD00008,Latte,2.45
+67,ORD00019,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+68,ORD00020,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+69,ORD00020,Regular,PRD00007,Latte,2.15
+70,ORD00021,Regular,PRD00009,Flat white,2.15
+71,ORD00021,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+72,ORD00022,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+73,ORD00022,Regular,PRD00009,Flat white,2.15
+74,ORD00022,Large,PRD00008,Latte,2.45
+75,ORD00023,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+76,ORD00023,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+77,ORD00023,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+78,ORD00024,Regular,PRD00007,Latte,2.15
+79,ORD00025,Large,PRD00008,Latte,2.45
+80,ORD00025,Regular,PRD00009,Flat white,2.15
+81,ORD00025,Regular,PRD00009,Flat white,2.15
+82,ORD00026,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+83,ORD00026,Large,PRD00006,Flat white,2.45
+84,ORD00027,Regular,PRD00007,Latte,2.15
+85,ORD00027,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+86,ORD00027,Large,PRD00006,Flat white,2.45
+87,ORD00027,Regular,PRD00007,Latte,2.15
+88,ORD00027,Large,PRD00008,Latte,2.45
+89,ORD00027,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+90,ORD00028,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+91,ORD00028,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+92,ORD00028,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+93,ORD00028,Regular,PRD00007,Latte,2.15
+94,ORD00028,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+95,ORD00028,Large,PRD00006,Flat white,2.45
+96,ORD00029,Large,PRD00006,Flat white,2.45
+97,ORD00029,Regular,PRD00009,Flat white,2.15
+98,ORD00029,Regular,PRD00009,Flat white,2.15
+99,ORD00030,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+100,ORD00030,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+101,ORD00030,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+102,ORD00030,Regular,PRD00009,Flat white,2.15
+103,ORD00030,Regular,PRD00009,Flat white,2.15
+104,ORD00030,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+105,ORD00031,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+106,ORD00031,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+107,ORD00032,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+108,ORD00032,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+109,ORD00032,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+110,ORD00032,Regular,PRD00007,Latte,2.15
+111,ORD00032,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+112,ORD00032,Regular,PRD00009,Flat white,2.15
+113,ORD00033,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+114,ORD00033,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+115,ORD00033,Regular,PRD00007,Latte,2.15
+116,ORD00034,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+117,ORD00034,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+118,ORD00034,Large,PRD00008,Latte,2.45
+119,ORD00035,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+120,ORD00035,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+121,ORD00035,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+122,ORD00036,Regular,PRD00009,Flat white,2.15
+123,ORD00036,Large,PRD00008,Latte,2.45
+124,ORD00036,Large,PRD00006,Flat white,2.45
+125,ORD00036,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+126,ORD00037,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+127,ORD00037,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+128,ORD00038,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+129,ORD00038,Regular,PRD00009,Flat white,2.15
+130,ORD00039,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+131,ORD00040,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+132,ORD00040,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+133,ORD00040,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+134,ORD00040,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+135,ORD00041,Regular,PRD00007,Latte,2.15
+136,ORD00041,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+137,ORD00042,Large,PRD00008,Latte,2.45
+138,ORD00042,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+139,ORD00043,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+140,ORD00043,Large,PRD00008,Latte,2.45
+141,ORD00044,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+142,ORD00044,Regular,PRD00009,Flat white,2.15
+143,ORD00044,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+144,ORD00045,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+145,ORD00045,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+146,ORD00045,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+147,ORD00045,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+148,ORD00046,Regular,PRD00007,Latte,2.15
+149,ORD00046,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+150,ORD00046,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+151,ORD00047,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+152,ORD00047,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+153,ORD00048,Large,PRD00008,Latte,2.45
+154,ORD00048,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+155,ORD00048,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+156,ORD00048,Large,PRD00006,Flat white,2.45
+157,ORD00049,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+158,ORD00050,Large,PRD00006,Flat white,2.45
+159,ORD00050,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+160,ORD00050,Large,PRD00008,Latte,2.45
+161,ORD00051,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+162,ORD00051,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+163,ORD00051,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+164,ORD00051,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+165,ORD00051,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+166,ORD00052,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+167,ORD00052,Regular,PRD00009,Flat white,2.15
+168,ORD00053,Regular,PRD00007,Latte,2.15
+169,ORD00053,Regular,PRD00007,Latte,2.15
+170,ORD00053,Large,PRD00008,Latte,2.45
+171,ORD00053,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+172,ORD00054,Large,PRD00006,Flat white,2.45
+173,ORD00054,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+174,ORD00054,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+175,ORD00054,Regular,PRD00007,Latte,2.15
+176,ORD00055,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+177,ORD00056,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+178,ORD00056,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+179,ORD00057,Regular,PRD00007,Latte,2.15
+180,ORD00057,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+181,ORD00058,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+182,ORD00059,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+183,ORD00059,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+184,ORD00060,Regular,PRD00009,Flat white,2.15
+185,ORD00060,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+186,ORD00060,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+187,ORD00061,Regular,PRD00007,Latte,2.15
+188,ORD00062,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+189,ORD00062,Large,PRD00008,Latte,2.45
+190,ORD00062,Regular,PRD00009,Flat white,2.15
+191,ORD00062,Regular,PRD00007,Latte,2.15
+192,ORD00063,Regular,PRD00009,Flat white,2.15
+193,ORD00063,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+194,ORD00063,Large,PRD00008,Latte,2.45
+195,ORD00063,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+196,ORD00064,Regular,PRD00009,Flat white,2.15
+197,ORD00064,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+198,ORD00064,Regular,PRD00007,Latte,2.15
+199,ORD00065,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+200,ORD00065,Regular,PRD00009,Flat white,2.15
+201,ORD00065,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+202,ORD00066,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+203,ORD00066,Large,PRD00008,Latte,2.45
+204,ORD00066,Regular,PRD00009,Flat white,2.15
+205,ORD00067,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+206,ORD00067,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+207,ORD00067,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+208,ORD00067,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+209,ORD00068,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+210,ORD00068,Regular,PRD00007,Latte,2.15
+211,ORD00068,Large,PRD00008,Latte,2.45
+212,ORD00068,Large,PRD00008,Latte,2.45
+213,ORD00069,Large,PRD00006,Flat white,2.45
+214,ORD00069,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+215,ORD00069,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+216,ORD00070,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+217,ORD00070,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+218,ORD00070,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+219,ORD00071,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+220,ORD00071,Regular,PRD00009,Flat white,2.15
+221,ORD00072,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+222,ORD00072,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+223,ORD00072,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+224,ORD00072,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+225,ORD00073,Large,PRD00006,Flat white,2.45
+226,ORD00073,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+227,ORD00074,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+228,ORD00074,Large,PRD00008,Latte,2.45
+229,ORD00075,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+230,ORD00075,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+231,ORD00075,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+232,ORD00076,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+233,ORD00077,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+234,ORD00078,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+235,ORD00078,Regular,PRD00007,Latte,2.15
+236,ORD00078,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+237,ORD00079,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+238,ORD00079,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+239,ORD00079,Regular,PRD00009,Flat white,2.15
+240,ORD00079,Regular,PRD00007,Latte,2.15
+241,ORD00079,Large,PRD00006,Flat white,2.45
+242,ORD00079,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+243,ORD00080,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+244,ORD00081,Regular,PRD00007,Latte,2.15
+245,ORD00081,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+246,ORD00081,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+247,ORD00081,Large,PRD00006,Flat white,2.45
+248,ORD00082,Large,PRD00006,Flat white,2.45
+249,ORD00082,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+250,ORD00082,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+251,ORD00082,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+252,ORD00083,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+253,ORD00083,Large,PRD00006,Flat white,2.45
+254,ORD00084,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+255,ORD00084,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+256,ORD00084,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+257,ORD00084,Regular,PRD00007,Latte,2.15
+258,ORD00084,Regular,PRD00009,Flat white,2.15
+259,ORD00085,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+260,ORD00085,Large,PRD00008,Latte,2.45
+261,ORD00085,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+262,ORD00085,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+263,ORD00085,Regular,PRD00009,Flat white,2.15
+264,ORD00085,Regular,PRD00007,Latte,2.15
+265,ORD00086,Regular,PRD00009,Flat white,2.15
+266,ORD00086,Regular,PRD00007,Latte,2.15
+267,ORD00086,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+268,ORD00087,Regular,PRD00009,Flat white,2.15
+269,ORD00087,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+270,ORD00087,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+271,ORD00087,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+272,ORD00087,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+273,ORD00087,Regular,PRD00009,Flat white,2.15
+274,ORD00088,Large,PRD00008,Latte,2.45
+275,ORD00088,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+276,ORD00089,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+277,ORD00089,Regular,PRD00009,Flat white,2.15
+278,ORD00089,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+279,ORD00089,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+280,ORD00090,Large,PRD00006,Flat white,2.45
+281,ORD00090,Large,PRD00008,Latte,2.45
+282,ORD00090,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+283,ORD00091,Large,PRD00006,Flat white,2.45
+284,ORD00092,Regular,PRD00009,Flat white,2.15
+285,ORD00092,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+286,ORD00092,Large,PRD00006,Flat white,2.45
+287,ORD00092,Regular,PRD00007,Latte,2.15
+288,ORD00092,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+289,ORD00093,Large,PRD00008,Latte,2.45
+290,ORD00094,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+291,ORD00094,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+292,ORD00094,Large,PRD00008,Latte,2.45
+293,ORD00095,Large,PRD00006,Flat white,2.45
+294,ORD00095,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+295,ORD00095,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+296,ORD00095,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+297,ORD00095,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+298,ORD00095,Regular,PRD00007,Latte,2.15
+299,ORD00096,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+300,ORD00096,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+301,ORD00096,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+302,ORD00097,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+303,ORD00097,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+304,ORD00097,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+305,ORD00098,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+306,ORD00098,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+307,ORD00098,Large,PRD00008,Latte,2.45
+308,ORD00098,Large,PRD00008,Latte,2.45
+309,ORD00099,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+310,ORD00099,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+311,ORD00099,Regular,PRD00009,Flat white,2.15
+312,ORD00099,Large,PRD00008,Latte,2.45
+313,ORD00099,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+314,ORD00100,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+315,ORD00100,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+316,ORD00101,Large,PRD00008,Latte,2.45
+317,ORD00102,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+318,ORD00102,Large,PRD00008,Latte,2.45
+319,ORD00102,Large,PRD00008,Latte,2.45
+320,ORD00102,Large,PRD00006,Flat white,2.45
+321,ORD00102,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+322,ORD00103,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+323,ORD00104,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+324,ORD00104,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+325,ORD00104,Large,PRD00008,Latte,2.45
+326,ORD00105,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+327,ORD00105,Large,PRD00008,Latte,2.45
+328,ORD00105,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+329,ORD00105,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+330,ORD00105,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+331,ORD00106,Large,PRD00008,Latte,2.45
+332,ORD00107,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+333,ORD00108,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+334,ORD00109,Regular,PRD00007,Latte,2.15
+335,ORD00110,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+336,ORD00110,Large,PRD00008,Latte,2.45
+337,ORD00111,Large,PRD00006,Flat white,2.45
+338,ORD00111,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+339,ORD00111,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+340,ORD00111,Large,PRD00008,Latte,2.45
+341,ORD00111,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+342,ORD00112,Regular,PRD00009,Flat white,2.15
+343,ORD00112,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+344,ORD00112,Regular,PRD00009,Flat white,2.15
+345,ORD00112,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+346,ORD00113,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+347,ORD00113,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+348,ORD00114,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+349,ORD00114,Large,PRD00006,Flat white,2.45
+350,ORD00114,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+351,ORD00114,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+352,ORD00114,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+353,ORD00115,Large,PRD00008,Latte,2.45
+354,ORD00116,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+355,ORD00116,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+356,ORD00117,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+357,ORD00117,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+358,ORD00117,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+359,ORD00117,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+360,ORD00117,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+361,ORD00118,Large,PRD00008,Latte,2.45
+362,ORD00118,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+363,ORD00118,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+364,ORD00119,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+365,ORD00119,Regular,PRD00009,Flat white,2.15
+366,ORD00119,Regular,PRD00007,Latte,2.15
+367,ORD00119,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+368,ORD00119,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+369,ORD00120,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+370,ORD00120,Large,PRD00008,Latte,2.45
+371,ORD00121,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+372,ORD00121,Regular,PRD00007,Latte,2.15
+373,ORD00121,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+374,ORD00122,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+375,ORD00122,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+376,ORD00122,Large,PRD00008,Latte,2.45
+377,ORD00122,Large,PRD00006,Flat white,2.45
+378,ORD00123,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+379,ORD00123,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+380,ORD00123,Regular,PRD00009,Flat white,2.15
+381,ORD00124,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+382,ORD00124,Large,PRD00008,Latte,2.45
+383,ORD00124,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+384,ORD00124,Regular,PRD00007,Latte,2.15
+385,ORD00124,Large,PRD00006,Flat white,2.45
+386,ORD00125,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+387,ORD00125,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+388,ORD00125,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+389,ORD00126,Regular,PRD00007,Latte,2.15
+390,ORD00126,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+391,ORD00126,Regular,PRD00007,Latte,2.15
+392,ORD00127,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+393,ORD00128,Regular,PRD00009,Flat white,2.15
+394,ORD00128,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+395,ORD00129,Large,PRD00008,Latte,2.45
+396,ORD00129,Regular,PRD00009,Flat white,2.15
+397,ORD00129,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+398,ORD00129,Large,PRD00008,Latte,2.45
+399,ORD00130,Large,PRD00008,Latte,2.45
+400,ORD00130,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+401,ORD00131,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+402,ORD00132,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+403,ORD00132,Regular,PRD00007,Latte,2.15
+404,ORD00132,Large,PRD00008,Latte,2.45
+405,ORD00133,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+406,ORD00134,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+407,ORD00134,Large,PRD00008,Latte,2.45
+408,ORD00134,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+409,ORD00135,Large,PRD00008,Latte,2.45
+410,ORD00135,Large,PRD00006,Flat white,2.45
+411,ORD00136,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+412,ORD00136,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+413,ORD00136,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+414,ORD00136,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+415,ORD00137,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+416,ORD00137,Large,PRD00006,Flat white,2.45
+417,ORD00138,Regular,PRD00009,Flat white,2.15
+418,ORD00138,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+419,ORD00138,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+420,ORD00138,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+421,ORD00138,Regular,PRD00009,Flat white,2.15
+422,ORD00139,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+423,ORD00139,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+424,ORD00139,Large,PRD00008,Latte,2.45
+425,ORD00139,Regular,PRD00009,Flat white,2.15
+426,ORD00139,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+427,ORD00140,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+428,ORD00140,Regular,PRD00007,Latte,2.15
+429,ORD00140,Regular,PRD00009,Flat white,2.15
+430,ORD00141,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+431,ORD00141,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+432,ORD00141,Regular,PRD00009,Flat white,2.15
+433,ORD00142,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+434,ORD00142,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+435,ORD00142,Large,PRD00006,Flat white,2.45
+436,ORD00143,Large,PRD00006,Flat white,2.45
+437,ORD00143,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+438,ORD00144,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+439,ORD00144,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+440,ORD00145,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+441,ORD00145,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+442,ORD00145,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+443,ORD00145,Regular,PRD00007,Latte,2.15
+444,ORD00145,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+445,ORD00146,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+446,ORD00147,Regular,PRD00007,Latte,2.15
+447,ORD00148,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+448,ORD00149,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+449,ORD00149,Large,PRD00008,Latte,2.45
+450,ORD00149,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+451,ORD00149,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+452,ORD00149,Large,PRD00008,Latte,2.45
+453,ORD00149,Regular,PRD00007,Latte,2.15
+454,ORD00150,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+455,ORD00150,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+456,ORD00150,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+457,ORD00151,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+458,ORD00151,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+459,ORD00151,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+460,ORD00151,Large,PRD00006,Flat white,2.45
+461,ORD00151,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+462,ORD00152,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+463,ORD00153,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+464,ORD00153,Regular,PRD00009,Flat white,2.15
+465,ORD00153,Regular,PRD00009,Flat white,2.15
+466,ORD00153,Regular,PRD00009,Flat white,2.15
+467,ORD00154,Large,PRD00008,Latte,2.45
+468,ORD00155,Regular,PRD00007,Latte,2.15
+469,ORD00155,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+470,ORD00156,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+471,ORD00156,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+472,ORD00156,Regular,PRD00007,Latte,2.15
+473,ORD00157,Large,PRD00006,Flat white,2.45
+474,ORD00157,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+475,ORD00157,Regular,PRD00007,Latte,2.15
+476,ORD00157,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+477,ORD00158,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+478,ORD00158,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+479,ORD00158,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+480,ORD00159,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+481,ORD00159,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+482,ORD00159,Large,PRD00006,Flat white,2.45
+483,ORD00159,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+484,ORD00159,Regular,PRD00007,Latte,2.15
+485,ORD00160,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+486,ORD00160,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+487,ORD00160,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+488,ORD00160,Large,PRD00008,Latte,2.45
+489,ORD00161,Regular,PRD00007,Latte,2.15
+490,ORD00161,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+491,ORD00162,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+492,ORD00162,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+493,ORD00162,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+494,ORD00162,Large,PRD00006,Flat white,2.45
+495,ORD00162,Regular,PRD00009,Flat white,2.15
+496,ORD00163,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+497,ORD00163,Large,PRD00006,Flat white,2.45
+498,ORD00164,Regular,PRD00009,Flat white,2.15
+499,ORD00164,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+500,ORD00165,Regular,PRD00007,Latte,2.15
+501,ORD00165,Large,PRD00006,Flat white,2.45
+502,ORD00165,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+503,ORD00165,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+504,ORD00166,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+505,ORD00167,Large,PRD00008,Latte,2.45
+506,ORD00168,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+507,ORD00168,Large,PRD00008,Latte,2.45
+508,ORD00169,Large,PRD00008,Latte,2.45
+509,ORD00170,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+510,ORD00171,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+511,ORD00171,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+512,ORD00171,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+513,ORD00172,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+514,ORD00172,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+515,ORD00173,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+516,ORD00173,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+517,ORD00174,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+518,ORD00175,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+519,ORD00175,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+520,ORD00175,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+521,ORD00175,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+522,ORD00175,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+523,ORD00176,Regular,PRD00009,Flat white,2.15
+524,ORD00176,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+525,ORD00176,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+526,ORD00176,Regular,PRD00007,Latte,2.15
+527,ORD00176,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+528,ORD00176,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+529,ORD00177,Large,PRD00008,Latte,2.45
+530,ORD00177,Regular,PRD00007,Latte,2.15
+531,ORD00177,Regular,PRD00007,Latte,2.15
+532,ORD00178,Regular,PRD00009,Flat white,2.15
+533,ORD00178,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+534,ORD00178,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+535,ORD00178,Regular,PRD00009,Flat white,2.15
+536,ORD00179,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+537,ORD00179,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+538,ORD00179,Regular,PRD00007,Latte,2.15
+539,ORD00180,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+540,ORD00180,Regular,PRD00009,Flat white,2.15
+541,ORD00180,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+542,ORD00180,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+543,ORD00181,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+544,ORD00182,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+545,ORD00182,Large,PRD00008,Latte,2.45
+546,ORD00182,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+547,ORD00182,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+548,ORD00183,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+549,ORD00184,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+550,ORD00184,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+551,ORD00185,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+552,ORD00186,Regular,PRD00009,Flat white,2.15
+553,ORD00187,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+554,ORD00187,Large,PRD00008,Latte,2.45
+555,ORD00187,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+556,ORD00188,Large,PRD00006,Flat white,2.45
+557,ORD00188,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+558,ORD00188,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+559,ORD00189,Large,PRD00008,Latte,2.45
+560,ORD00190,Regular,PRD00009,Flat white,2.15
+561,ORD00190,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+562,ORD00190,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+563,ORD00190,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+564,ORD00191,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+565,ORD00192,Regular,PRD00007,Latte,2.15
+566,ORD00192,Regular,PRD00007,Latte,2.15
+567,ORD00192,Regular,PRD00009,Flat white,2.15
+568,ORD00192,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+569,ORD00192,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+570,ORD00192,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+571,ORD00193,Large,PRD00008,Latte,2.45
+572,ORD00193,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+573,ORD00194,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+574,ORD00194,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+575,ORD00194,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+576,ORD00195,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+577,ORD00196,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+578,ORD00197,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+579,ORD00197,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+580,ORD00197,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+581,ORD00197,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+582,ORD00198,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+583,ORD00198,Large,PRD00006,Flat white,2.45
+584,ORD00199,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+585,ORD00200,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+586,ORD00200,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+587,ORD00201,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+588,ORD00201,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+589,ORD00201,Regular,PRD00009,Flat white,2.15
+590,ORD00201,Regular,PRD00009,Flat white,2.15
+591,ORD00201,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+592,ORD00202,Regular,PRD00007,Latte,2.15
+593,ORD00202,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+594,ORD00202,Large,PRD00006,Flat white,2.45
+595,ORD00202,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+596,ORD00202,Large,PRD00006,Flat white,2.45
+597,ORD00203,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+598,ORD00203,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+599,ORD00203,Large,PRD00008,Latte,2.45
+600,ORD00203,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+601,ORD00203,Regular,PRD00009,Flat white,2.15
+602,ORD00204,Large,PRD00006,Flat white,2.45
+603,ORD00205,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+604,ORD00205,Regular,PRD00007,Latte,2.15
+605,ORD00205,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+606,ORD00205,Regular,PRD00007,Latte,2.15
+607,ORD00206,Regular,PRD00009,Flat white,2.15
+608,ORD00206,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+609,ORD00206,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+610,ORD00206,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+611,ORD00207,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+612,ORD00207,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+613,ORD00208,Regular,PRD00007,Latte,2.15
+614,ORD00209,Large,PRD00008,Latte,2.45
+615,ORD00209,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+616,ORD00209,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+617,ORD00210,Regular,PRD00009,Flat white,2.15
+618,ORD00210,Regular,PRD00009,Flat white,2.15
+619,ORD00210,Large,PRD00006,Flat white,2.45
+620,ORD00210,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+621,ORD00211,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+622,ORD00211,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+623,ORD00212,Regular,PRD00009,Flat white,2.15
+624,ORD00212,Regular,PRD00007,Latte,2.15
+625,ORD00212,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+626,ORD00213,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+627,ORD00214,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+628,ORD00214,Large,PRD00006,Flat white,2.45
+629,ORD00214,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+630,ORD00214,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+631,ORD00214,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+632,ORD00215,Large,PRD00006,Flat white,2.45
+633,ORD00215,Regular,PRD00009,Flat white,2.15
+634,ORD00216,Large,PRD00008,Latte,2.45
+635,ORD00217,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+636,ORD00217,Large,PRD00008,Latte,2.45
+637,ORD00217,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+638,ORD00217,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+639,ORD00218,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+640,ORD00218,Large,PRD00006,Flat white,2.45
+641,ORD00218,Regular,PRD00007,Latte,2.15
+642,ORD00219,Large,PRD00006,Flat white,2.45
+643,ORD00219,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+644,ORD00219,Regular,PRD00009,Flat white,2.15
+645,ORD00219,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+646,ORD00220,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+647,ORD00220,Large,PRD00008,Latte,2.45
+648,ORD00220,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+649,ORD00220,Regular,PRD00009,Flat white,2.15
+650,ORD00221,Regular,PRD00009,Flat white,2.15
+651,ORD00221,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+652,ORD00221,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+653,ORD00221,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+654,ORD00221,Large,PRD00006,Flat white,2.45
+655,ORD00222,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+656,ORD00222,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+657,ORD00223,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+658,ORD00223,Large,PRD00006,Flat white,2.45
+659,ORD00223,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+660,ORD00223,Regular,PRD00007,Latte,2.15
+661,ORD00224,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+662,ORD00224,Regular,PRD00007,Latte,2.15
+663,ORD00225,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+664,ORD00226,Large,PRD00006,Flat white,2.45
+665,ORD00226,Large,PRD00006,Flat white,2.45
+666,ORD00227,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+667,ORD00228,Regular,PRD00009,Flat white,2.15
+668,ORD00228,Large,PRD00006,Flat white,2.45
+669,ORD00228,Regular,PRD00009,Flat white,2.15
+670,ORD00228,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+671,ORD00228,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+672,ORD00229,Large,PRD00006,Flat white,2.45
+673,ORD00229,Regular,PRD00007,Latte,2.15
+674,ORD00230,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+675,ORD00231,Large,PRD00006,Flat white,2.45
+676,ORD00231,Large,PRD00008,Latte,2.45
+677,ORD00231,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+678,ORD00232,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+679,ORD00232,Regular,PRD00007,Latte,2.15
+680,ORD00232,Regular,PRD00007,Latte,2.15
+681,ORD00232,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+682,ORD00233,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+683,ORD00233,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+684,ORD00233,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+685,ORD00234,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+686,ORD00234,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+687,ORD00234,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+688,ORD00235,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+689,ORD00236,Large,PRD00006,Flat white,2.45
+690,ORD00236,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+691,ORD00237,Regular,PRD00007,Latte,2.15
+692,ORD00237,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+693,ORD00238,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+694,ORD00238,Regular,PRD00009,Flat white,2.15
+695,ORD00238,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+696,ORD00239,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+697,ORD00239,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+698,ORD00240,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+699,ORD00240,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+700,ORD00241,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+701,ORD00241,Regular,PRD00007,Latte,2.15
+702,ORD00241,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+703,ORD00241,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+704,ORD00241,Large,PRD00008,Latte,2.45
+705,ORD00242,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+706,ORD00242,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+707,ORD00242,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+708,ORD00243,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+709,ORD00243,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+710,ORD00244,Large,PRD00006,Flat white,2.45
+711,ORD00244,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+712,ORD00245,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+713,ORD00245,Regular,PRD00007,Latte,2.15
+714,ORD00246,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+715,ORD00246,Regular,PRD00007,Latte,2.15
+716,ORD00247,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+717,ORD00247,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+718,ORD00247,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+719,ORD00247,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+720,ORD00247,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+721,ORD00247,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+722,ORD00248,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+723,ORD00249,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+724,ORD00249,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+725,ORD00250,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+726,ORD00250,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+727,ORD00250,Large,PRD00008,Latte,2.45
+728,ORD00251,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+729,ORD00251,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+730,ORD00252,Regular,PRD00009,Flat white,2.15
+731,ORD00252,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+732,ORD00252,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+733,ORD00252,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+734,ORD00253,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+735,ORD00254,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+736,ORD00254,Large,PRD00006,Flat white,2.45
+737,ORD00254,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+738,ORD00254,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+739,ORD00254,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+740,ORD00255,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+741,ORD00256,Large,PRD00006,Flat white,2.45
+742,ORD00257,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+743,ORD00257,Large,PRD00006,Flat white,2.45
+744,ORD00258,Large,PRD00008,Latte,2.45
+745,ORD00258,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+746,ORD00258,Large,PRD00008,Latte,2.45
+747,ORD00258,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+748,ORD00259,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+749,ORD00259,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+750,ORD00259,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+751,ORD00259,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+752,ORD00260,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+753,ORD00260,Large,PRD00008,Latte,2.45
+754,ORD00260,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+755,ORD00260,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+756,ORD00260,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+757,ORD00260,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+758,ORD00261,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+759,ORD00261,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+760,ORD00261,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+761,ORD00262,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+762,ORD00262,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+763,ORD00262,Regular,PRD00005,Flavoured iced latte - Hazelnut,2.75
+764,ORD00262,Regular,PRD00012,Flavoured iced latte - Vanilla,2.75
+765,ORD00263,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+766,ORD00263,Large,PRD00001,Flavoured iced latte - Caramel,3.25
+767,ORD00263,Large,PRD00008,Latte,2.45
+768,ORD00263,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+769,ORD00263,Regular,PRD00007,Latte,2.15
+770,ORD00264,Large,PRD00011,Flavoured latte - Hazelnut,2.85
+771,ORD00264,Large,PRD00010,Flavoured iced latte - Vanilla,3.25
+772,ORD00265,Regular,PRD00002,Flavoured iced latte - Caramel,2.75
+773,ORD00265,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+774,ORD00265,Large,PRD00003,Flavoured iced latte - Hazelnut,3.25
+775,ORD00265,Regular,PRD00009,Flat white,2.15
+776,ORD00266,Regular,PRD00004,Flavoured latte - Hazelnut,2.55
+777,ORD00267,Large,PRD00006,Flat white,2.45
