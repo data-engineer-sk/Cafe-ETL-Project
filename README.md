@@ -5,6 +5,6 @@
 
 
 ### T-SQL for 2nd Phase Transformation 
-![New Database Schema](https://github.com/data-engineer-sk/ETL-Cafe-Project-Local-MySQL-/blob/main/img/Database-Schema.png)
+![New Database Schema](https://github.com/data-engineer-sk/ETL-Cafe-Project-Local-MySQL-/blob/main/img/2nd%20Phase%20Transformation.png)
 
 
