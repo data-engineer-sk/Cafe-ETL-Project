@@ -7,7 +7,7 @@
 ![Original CSV](https://github.com/data-engineer-sk/AWS-ETL-Project/blob/main/Chesterfield-Branch-CSV.png)
 
 ### The Initial Table Schema for AWS-ETL Project
-![Original Table Breakdown](https://github.com/data-engineer-sk/ETL-Cafe-Project-Local-MySQL-/blob/main/img/Database-Schema.png)
+![Original Table Breakdown](https://github.com/data-engineer-sk/AWS-ETL-Project/blob/main/Postgresql_Tables.png)
 
 ### Revise the Database Schema from AWS project (Single CSV file to five tables in MySQL)
 ![New Database Schema](https://github.com/data-engineer-sk/ETL-Cafe-Project-Local-MySQL-/blob/main/img/Database-Schema.png)
